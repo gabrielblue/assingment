@@ -1,0 +1,3 @@
+[submodule "monday/repo"]
+	path = monday/repo
+	url = https://github.com/gabrielblue/monday2.git
